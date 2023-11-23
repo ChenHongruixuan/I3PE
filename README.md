@@ -24,7 +24,7 @@ tqdm==4.64.1
 Two large-scale benchmark datasets, <a href="https://github.com/liumency/SYSU-CD">SYSU dataset</a> and <a href="https://captain-whu.github.io/SCD/
 ">SECOND dataset</a>, are used for experiments. Please download them and organize them in the following way. 
 
-For the Wuhan dataset used in our paper, you can also download it here for your own research [<a href="https://drive.google.com/file/d/1f9tWouvzwjqf9oujg6BMh-xESzwEefO4/view?usp=drive_link">Google Drive</a>], [<a href="https://pan.baidu.com/s/1XLPPwfLl1HpSo0kzidIDpQ?pwd=8d27">Baidu Cloud</a>]. 
+For the <strong>Wuhan dataset</strong> used in our paper, you can also download it here for your own research [<a href="https://drive.google.com/file/d/1f9tWouvzwjqf9oujg6BMh-xESzwEefO4/view?usp=drive_link">Google Drive</a>], [<a href="https://pan.baidu.com/s/1XLPPwfLl1HpSo0kzidIDpQ?pwd=8d27">Baidu Cloud</a>]. 
 ```
 ├── <THE-ROOT-PATH-OF-DATA>/
 │   ├── SYSU/     
