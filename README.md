@@ -83,14 +83,14 @@ Unsupervised change detection results of different methods on the test sets:
 If this code or dataset contributes to your research, please consider citing our paper:
 ```
 @article{Chen2023Exchange,
-title = {Exchange means change: An unsupervised single-temporal change detection framework based on intra- and inter-image patch exchange},
-author = {Hongruixuan Chen and Jian Song and Chen Wu and Bo Du and Naoto Yokoya},
-journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-volume = {206},
-pages = {87-105},
-year = {2023},
-issn = {0924-2716},
-doi = {https://doi.org/10.1016/j.isprsjprs.2023.11.004}
+    title = {Exchange means change: An unsupervised single-temporal change detection framework based on intra- and inter-image patch exchange},
+    author = {Hongruixuan Chen and Jian Song and Chen Wu and Bo Du and Naoto Yokoya},
+    journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+    volume = {206},
+    pages = {87-105},
+    year = {2023},
+    issn = {0924-2716},
+    doi = {https://doi.org/10.1016/j.isprsjprs.2023.11.004}
 }
 ```
 
