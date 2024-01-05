@@ -80,7 +80,7 @@ Unsupervised change detection results of different methods on the test sets:
 |     I3PE      |      0.7305     |        0.5547        |      0.7283     |        0.4380        |  
 
 ## Citation
-If this code or dataset contributes to your research, please consider citing our paper:
+If this code or dataset contributes to your research, please kindly consider citing our paper :)
 ```
 @article{Chen2023Exchange,
     title = {Exchange means change: An unsupervised single-temporal change detection framework based on intra- and inter-image patch exchange},
